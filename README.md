@@ -27,6 +27,5 @@ In cart we can remove our previously added products or buy them
 
 To login or register to our web application we can use 2 methods
 ![image](https://github.com/Yerkyway/CakeShopApplication/assets/143787291/84ba221f-79fd-422e-a18a-61be967fd8dc)
-![image](https://github.com/Yerkyway/CakeShopApplication/assets/143787291/c7770b3e-ff00-4f08-ba38-a9384d8d387c)
 ![image](https://github.com/Yerkyway/CakeShopApplication/assets/143787291/a31729fb-434f-44e7-a1f0-dc5ded4b6099)
 ![image](https://github.com/Yerkyway/CakeShopApplication/assets/143787291/6f38d4ee-8aaa-4461-a5f9-8bf46444cf6c)
